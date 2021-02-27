@@ -1,8 +1,12 @@
-## Movies Recomender System with PySpark 2
+## Movies Recommender System with PySpark 2
 
-About this Dataset
-Context
+This project was part of my MSc thesis in Big Data Analytics using Hadoop.
 
+The goal is to create a movies recommender system using the distributed proccesing power of PySpark 2.
+
+The ML algorith that is used is Collaborative Filtering with ALS (AlternatingLeastSquares).
+
+### About this Dataset
 The datasets describe ratings and free-text tagging activities from MovieLens, a movie recommendation service. It contains 20000263 ratings and 465564 tag applications across 27278 movies. These data were created by 138493 users between January 09, 1995 and March 31, 2015. This dataset was generated on October 17, 2016.
 
 Users were selected at random for inclusion. All selected users had rated at least 20 movies.
