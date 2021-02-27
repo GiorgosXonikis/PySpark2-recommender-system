@@ -1,4 +1,4 @@
-## Movies Recomender System with Apache Spark 2
+## Movies Recomender System with PySpark 2
 
 About this Dataset
 Context
